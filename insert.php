@@ -31,6 +31,7 @@ else {
 return $combine;
 }
 
+//demo
 $input=[40,50,60,70,80,90,200];
 $add=[1,2,3,7];
 $pos=[array_search(40,$input),array_search(200,$input)];
